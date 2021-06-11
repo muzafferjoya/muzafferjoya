@@ -33,4 +33,6 @@ I am a DevOps Engineer having 1.5+ years of hands-on experience.
 <p>
 <a href="https://linkedin.com/in/muzaffarjoya"><img src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=ffffff"/></a>
 
+<a href="https://www.youtube.com/channel/UCbmYwoW7ZUzS2DgtUN5pzcg"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=ffffff"/></a>
+
 </p>
