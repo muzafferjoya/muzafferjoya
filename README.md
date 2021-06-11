@@ -21,7 +21,7 @@ I am a DevOps Engineer having 1.5+ years of hands-on experience.
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-[youtube]: https://www.youtube.com/channel/UCbmYwoW7ZUzS2DgtUN5pzcg
-[gmail]: https://gmail.com
-[linkedin]: https://www.linkedin.com/in/muzaffarjoya/
-[Facebook]: https://www.facebook.com/er.muzaffarkhan/
+<p>
+<a href="https://linkedin.com/in/muzaffarjoya"><img src="https://img.shields.io/badge/linkedin-muzaffarjoya-blue"/></a>
+
+</p>
