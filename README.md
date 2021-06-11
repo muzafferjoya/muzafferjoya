@@ -1,6 +1,7 @@
-### Hi there 👋, my name is Muzaffar Khan
+<h1 align="center">Hi 👋, I'm Muzaffar Khan</h1>
+<h3 align="center">A passionate computer science student from India</h3>
 
-![](https://muzafferjoya.github.io/NewPortfolio/index.html)
+![](https://muzaffar.tk)
 I am a DevOps Engineer having 1.5+ years of hands-on experience.
 
 - 👨‍💻 Skills:
@@ -17,3 +18,10 @@ I am a DevOps Engineer having 1.5+ years of hands-on experience.
 
 - 🔭 I’m currently working on [Eroam](https://eroam.com/)
 - 📫 Reach me: muzafferjoya@gmail.com
+
+### 🤝🏻 &nbsp;Connect with Me
+
+[youtube]: https://www.youtube.com/channel/UCbmYwoW7ZUzS2DgtUN5pzcg
+[gmail]: https://gmail.com
+[linkedin]: https://www.linkedin.com/in/muzaffarjoya/
+[Facebook]: https://www.facebook.com/er.muzaffarkhan/
