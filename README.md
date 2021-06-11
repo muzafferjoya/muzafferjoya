@@ -29,6 +29,7 @@ I am a DevOps Engineer having 1.5+ years of hands-on experience.
 ![Linux](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff)
 <br/>
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)
+![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon%20aws&logoColor=white)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
