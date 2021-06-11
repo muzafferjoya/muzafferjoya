@@ -33,6 +33,8 @@ I am a DevOps Engineer having 1.5+ years of hands-on experience.
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=ffffff)
 ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon%20aws&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/-microsoft%20azure-0078D4?style=for-the-badge&logo=microsoft%20azure)
+<br/>
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=ffffff)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
