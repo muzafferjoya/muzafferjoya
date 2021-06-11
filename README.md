@@ -20,8 +20,3 @@ I am a DevOps Engineer having 1.5+ years of hands-on experience.
 - 📫 Reach me: muzafferjoya@gmail.com
 
 ### 🤝🏻 &nbsp;Connect with Me
-
-[youtube]: https://www.youtube.com/channel/UCbmYwoW7ZUzS2DgtUN5pzcg
-[gmail]: https://gmail.com
-[linkedin]: https://www.linkedin.com/in/muzaffarjoya/
-[Facebook]: https://www.facebook.com/er.muzaffarkhan/
