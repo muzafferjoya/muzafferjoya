@@ -32,6 +32,7 @@ I am a DevOps Engineer having 1.5+ years of hands-on experience.
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=ffffff)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=Nginx&logoColor=ffffff)
+![Apache Tomcat](https://img.shields.io/badge/-Apache%20Tomcat-F8DC75?style=for-the-badge&logo=Apache%20Tomcat&logoColor=ffffff)
 ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon%20aws&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/-microsoft%20azure-0078D4?style=for-the-badge&logo=microsoft%20azure)
 <br/>
