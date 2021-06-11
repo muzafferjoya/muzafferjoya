@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muzaffar <p style="color:blue">Khan</p></h1>
+<h1 align="center">Hi 👋, I'm Muzaffar Khan</h1>
 <h3 align="center">A passionate computer science student from India</h3>
 
 ![](https://muzaffar.tk)
