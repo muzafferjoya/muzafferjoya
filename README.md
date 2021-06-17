@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muzaffar Khan</h1>
-<h3 align="center">A passionate computer science student from India</h3>
+<h3 align="center">A passionate DevOps Engineer from India</h3>
 
 ![](https://muzaffar.tk)
 I am a DevOps Engineer having 1.5+ years of hands-on experience.
