@@ -2,7 +2,7 @@
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
 ![](https://muzaffar.tk)
-I am a DevOps Engineer having 1.5+ years of hands-on experience.
+I am a DevOps Engineer having 2.0+ years of hands-on experience.
 
 - 🔭 I’m currently working on [Eroam](https://eroam.com/)
 - 📫 Reach me: muzafferjoya@gmail.com
