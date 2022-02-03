@@ -4,7 +4,7 @@
 ![](https://muzaffar.tk)
 I am a DevOps Engineer having 2.0+ years of hands-on experience.
 
-- 🔭 I’m currently working on [Eroam](https://eroam.com/)
+- 🔭 I’m currently working at [eRoam](https://eroam.com/)
 - 📫 Reach me: muzafferjoya@gmail.com
 
 ### 🛠 &nbsp;Languages and Tools
