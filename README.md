@@ -1,10 +1,10 @@
 <h1 align="center">$whoami, Hi 👋, I'm Muzaffar Khan</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
-![](https://muzaffar.tk)
+
 I am a DevOps Engineer having 2.0+ years of hands-on experience.
 
-- 🔭 I’m currently working at [eRoam](https://eroam.com/)
+- 🔭 I’m currently working at [Tekdi](https://www.tekdi.net/)
 - 📫 Reach me: muzafferjoya@gmail.com
 
 ### 🛠 &nbsp;Languages and Tools
