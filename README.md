@@ -1,37 +1,24 @@
-<h1 align="center">$whoami, Hi 👋, I'm Muzaffar Khan</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+# 💫 About Me:
+- 🔭 I’m currently working on [EG](https://github.com/muzafferjoya/eg-website)<br><br>- 🌱 I’m currently learning **ArgoCD, Github Actions, Grafana, Docker Mastery: with Kubernetes,**<br><br>- 👨‍💻 All of my projects are available at [https://portfolio-8j5.pages.dev/](https://portfolio-8j5.pages.dev/)<br><br>- 📝 I regularly write articles on [https://portfolio-8j5.pages.dev/](https://portfolio-8j5.pages.dev/)<br><br>- 💬 Ask me about **Jenkins, Docker, Kubernetes, Kafka**<br><br>- 📫 How to reach me **muzafferjoya@gmail.com**<br><br>- 📄 Know about my experiences [https://portfolio-8j5.pages.dev/resume.pdf](https://portfolio-8j5.pages.dev/resume.pdf)
 
 
-I am a DevOps Engineer having 2.0+ years of hands-on experience.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muzaffarjoya) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/muzaffar-khan) 
 
-- 🔭 I’m currently working at [Tekdi](https://www.tekdi.net/)
-- 📫 Reach me: muzafferjoya@gmail.com
+# 💻 Tech Stack:
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=muzafferjoya&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=muzafferjoya&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=muzafferjoya&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🛠 &nbsp;Languages and Tools
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=muzafferjoya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=muzafferjoya&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![Npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm)
-![Apache Maven](https://img.shields.io/badge/-apache%20maven-C71A36?style=for-the-badge&logo=apache%20maven) 
-![Linux](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=ffffff)
-<br/>
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=ffffff)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=Nginx&logoColor=ffffff)
-![Apache Tomcat](https://img.shields.io/badge/-Apache%20Tomcat-F8DC75?style=for-the-badge&logo=Apache%20Tomcat&logoColor=ffffff)
-![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon%20aws&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/-microsoft%20azure-0078D4?style=for-the-badge&logo=microsoft%20azure)
-<br/>
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=ffffff)
+---
+[![](https://visitcount.itsvg.in/api?id=muzafferjoya&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🤝🏻 &nbsp;Connect with Me
-
-
-
-<a href="https://linkedin.com/in/muzaffarjoya"><img src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=ffffff"/></a>
-
-<a href="https://www.youtube.com/channel/UCbmYwoW7ZUzS2DgtUN5pzcg"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=ffffff"/></a>
-
-<a href="https://t.me/joinchat/r3wVP-rWhxNjODdl"><img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=ffffff"/></a>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
