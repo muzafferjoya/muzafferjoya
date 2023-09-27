@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on [EG][Pratham][Sunbird-ALL] Projects.<br><br> 
+- 🔭 I’m currently working as a DevOps Engineer at Tekdi Technologies Pvt. Ltd.<br><br> 
 - 🌱 I’m currently learning **ArgoCD, Github Actions, Grafana, Docker Mastery: with Kubernetes,**<br><br> 
 - 👨‍💻 All of my projects are available at [https://portfolio-8j5.pages.dev/](https://portfolio-8j5.pages.dev/)<br><br> 
 - 📝 I regularly write articles on [https://portfolio-8j5.pages.dev/](https://portfolio-8j5.pages.dev/)<br><br> 
