@@ -1,4 +1,7 @@
 # 💫 About Me:
+
+<img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/R.54e37d8074ebcde1d96c77d7b2a7f310?rik=fX3JSCseIbYcKA&pid=ImgRaw&r=0">
+
 - 🔭 I’m currently working as a DevOps Engineer at Tekdi Technologies Pvt. Ltd.<br><br> 
 - 🌱 I’m currently learning **ArgoCD, Github Actions, Grafana, Docker Mastery: with Kubernetes,**<br><br> 
 - 👨‍💻 All of my projects are available at [https://portfolio-8j5.pages.dev/](https://portfolio-8j5.pages.dev/)<br><br> 
@@ -7,7 +10,6 @@
 - 📫 How to reach me **muzafferjoya@gmail.com**<br><br> 
 - 📄 Know about my experiences [https://portfolio-8j5.pages.dev/resume.pdf](https://portfolio-8j5.pages.dev/resume.pdf)
 
-<img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/R.54e37d8074ebcde1d96c77d7b2a7f310?rik=fX3JSCseIbYcKA&pid=ImgRaw&r=0">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muzaffarjoya) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/muzaffar-khan) 
