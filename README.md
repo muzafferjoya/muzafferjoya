@@ -2,7 +2,7 @@
 
 <img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/R.54e37d8074ebcde1d96c77d7b2a7f310?rik=fX3JSCseIbYcKA&pid=ImgRaw&r=0">
 
-- 🔭 I’m currently working as a DevOps Engineer.<br><br> 
+- 🔭 I’m currently working as a Sr. DevOps Engineer at Rakuten <br><br> 
 - 🌱 I’m currently learning **DevSecOps Tools**<br><br> 
 - 👨‍💻 All of my projects are available at [https://portfolio-8j5.pages.dev/](https://portfolio-8j5.pages.dev/)<br><br> 
 - 💬 Ask me about **Jenkins, Docker, Kubernetes, Kafka**<br><br> 
